@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ian Howell]]></title>
         <description><![CDATA[Ian Howell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ian-howell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 16:37:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Dec 2015 16:53:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ian-howell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World Title]]></title>
+            <description><![CDATA[<article><h1>Hello World Title</h1><p>Hello world</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e31ef834ea4d93126cc41c69d72dcaa98513191.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ian-howell/hello-world-title/index.html</link>
+            <guid isPermaLink="false">add6e644-30d4-4fce-898c-51b453a81ebc</guid>
+            <pubDate>Fri, 18 Dec 2015 16:53:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/ian-howell/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">2c868c86-5259-464f-a3ee-c69f32864592</guid>
             <pubDate>Fri, 18 Dec 2015 16:37:01 GMT</pubDate>
         </item>
